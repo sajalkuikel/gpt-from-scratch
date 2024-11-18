@@ -125,7 +125,7 @@ with st.spinner("Loading the GPT model..."):
     with open("gpt_language_model.pkl", "rb") as f:
         model = pickle.load(f)
     model.eval()
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = torch.device("cpu")
     model.to(device)
 
 # Define encode/decode
