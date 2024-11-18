@@ -4,6 +4,10 @@ A simple GPT model trained on Shakespearean text data and generates text resembl
 
 This project is a replication of Andrej Karpathy's tutorial: [ng-video-lecture.](https://github.com/karpathy/ng-video-lecture)
 
+[streamlit-app-2024-11-18-17-11-82.webm](https://github.com/user-attachments/assets/e410cfc2-af8d-4d8f-89ae-881d50be8db0)
+
+
+
 ## How to run this 
 
 ### 1. Clone the Repository
