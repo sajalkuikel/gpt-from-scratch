@@ -12,8 +12,8 @@ This project is a replication of Andrej Karpathy's tutorial: [ng-video-lecture.]
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/sajalkuikel/gpt-text-generation.git
-cd gpt-text-generation
+git clone https://github.com/sajalkuikel/gpt-from-scratch.git
+cd gpt-from-scratch
 ```
 ### 2. Install Pytorch
 
